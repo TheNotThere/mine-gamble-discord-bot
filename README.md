@@ -2,8 +2,11 @@
 A Discord bot that adds gambling and mining features, made in Python!
 
 ## Installation
+- Install python
 - Install requirements.txt
-
+```bash
+py -m pip install -r requirements.txt
+```
 ## Functions
 - ### mine_for_money
     - This function allows users to mine for ores.
