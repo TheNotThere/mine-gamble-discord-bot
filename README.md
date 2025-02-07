@@ -1,4 +1,4 @@
-# mini-game-discord-bot
+# mine-gamble-discord-bot
 A Discord bot that adds gambling and mining features, made in Python!
 
 ## Installation
